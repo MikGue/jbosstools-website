@@ -4,7 +4,7 @@
 :page-tags: [release, jbosstools, devstudio, jbosscentral]
 :page-date: 2016-02-02
 
-The second Beta of link:/downloads/jbosstools/mars/4.3.1.Beta2.html[JBoss Tools 4.3.1] and link:/downloads/devstudio/mars/9.1.0.Beta2.html[JBoss Developer Studio 9.1.0] for our maintenance Mars release is available.
+The second beta of link:/downloads/jbosstools/mars/4.3.1.Beta2.html[JBoss Tools 4.3.1] and link:/downloads/devstudio/mars/9.1.0.Beta2.html[JBoss Developer Studio 9.1.0] for our maintenance Mars release is available.
 
 image::/blog/images/jbosstools-jbdevstudio-blog-header.png[]
 
